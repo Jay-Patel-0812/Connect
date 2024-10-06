@@ -1,6 +1,6 @@
 
 ## 🚀 About Project
-Welcome to our ongoing off-campus internship project at `Clomotech Pvt. Ltd.` This project is a collaborative effort of **Masalawala Parth [202001244]** and **Jay Patel [202003019]**, aimed at building an innovative professional networking platform **[Connect]**.
+This project is a collaborative effort of **Masalawala Parth [202001244]** and **Jay Patel [202003019]**, aimed at building an innovative professional networking platform **[Connect]**.
 
 # Connect
 
